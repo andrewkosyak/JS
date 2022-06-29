@@ -1,1 +1,4 @@
-# JS
+# JS exercises
+
+
+
